@@ -1,4 +1,4 @@
-# Data-Analytics-
+# Data-Analytics-Portfolio-
 Data Analytics Projects
 # 📊 Data Analytics Portfolio
 
@@ -119,8 +119,8 @@ Skilled in transforming raw data into strategic business insights through advanc
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [(https://www.linkedin.com/in/suman-kumari-a3bab5254/)]
-- **Email:** [suman844@gmail.com]
+- **LinkedIn:- **LinkedIn:** [suman-kumari-a3bab5254](https://www.linkedin.com/in/suman-kumari-a3bab5254/)
+- **Email:** suman844@gmail.com
 - **GitHub:** suman844
 
 ---
