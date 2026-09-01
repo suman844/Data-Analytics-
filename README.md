@@ -1,4 +1,4 @@
-# Data-Analytics-Portfolio-
+# Data-Analytics-
 Data Analytics Projects
 # 📊 Data Analytics Portfolio
 
